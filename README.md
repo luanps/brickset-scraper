@@ -1,7 +1,10 @@
 Crawling data from [BrickSet](https://brickset.com/sets/year-2018) using
 [Scrapy](https://scrapy.org/) and Python3.
 
-Run: '''scrapy runspider scraper.py'''
+Run:
+ '''python
+scrapy runspider scraper.py
+'''
 
 
 
