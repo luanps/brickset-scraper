@@ -2,7 +2,7 @@ Crawling data from [BrickSet](https://brickset.com/sets/year-2018) using
 [Scrapy](https://scrapy.org/) and Python3.
 
 Run:
- '''python
+'''bash
 scrapy runspider scraper.py
 '''
 
